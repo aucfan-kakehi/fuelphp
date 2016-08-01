@@ -62,6 +62,10 @@
 					<li><a href="http://fuelphp.com/contribute/issue-tracker">Issue Tracker</a></li>
 				</ul>
 			</div>
+			<div class="col-md-4">
+				<h2>Teach</h2>
+				<p>You can teach FuelPHP to whom are egar to leaen FuelPHP.</p>
+			</div>
 		</div>
 		<hr/>
 		<footer>
